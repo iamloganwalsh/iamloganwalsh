@@ -1,10 +1,6 @@
-<h1>Hey Everyone! 👋</h1>
+# Hey Everyone! 👋
 
----
-
-<h3>About Me</h3>
-
----
+# About Me
 
 🎓 I am Logan Walsh, an aspiring Software Engeering studying a Bachelor of Science, majoring in Computer Science at the University of Auckland (UoA).
 
@@ -12,16 +8,12 @@
 
 🏀✈️ Outside of software development, I like to spend my free time playing video games and working on my fitness, both cardiovascular through sports, and working out in the gym. I also love to travel, and hope that I will have plenty of opportunities to do so in the future, either for work or pleasure.
 
-<h3>🏅 Achievements</h3>
-
----
+# 🏅 Achievements
 
 - 📜Certificate of Oustanding Achievement (x2), both Issued by Robyn Young (2023). Issued for A+ in Compsci 101 and Compsci 130, Python courses at UoA.
 - 📜Certificate of Merit, Issued by Sithra Sukumaar (2023). Issued for A grade in Physics 140, an Electrical and Logic course at UoA.
 
-<h3>🛠️ Languages and Tools</h3>
-
----
+# 🛠️ Languages and Tools
 
 <p align="left">
   <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
