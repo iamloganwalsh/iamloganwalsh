@@ -11,9 +11,9 @@
 # 🏅 Achievements
 
 - 📜First in Course Award (x2), awarded for achieving the highest overall mark in Compsci 101 - Semester One, 2023 and Compsci 130 - Semester Two, 2023.
-- 📜Certificate of Oustanding Achievement (x2), both Issued by Robyn Young (2023). Issued for A+ in Compsci 101 and Compsci 130, Python courses at UoA.
-- 📜Certificate of Merit, Issued by Sithra Sukumaar (2023). Issued for A grade in Physics 140, an Electrical and Logic course at UoA.
-
+- 📜Certificate of Oustanding Achievement (x4), 2 issued by Robyn Young (2023) and 2 issued by Maria Rodrigues (2024).
+- 📜Certificate of Merit (x2), issued by Sithra Sukumaar (2023 & 2024).
+- 
 # 🛠️ Languages and Tools
 
 <p align="left">
