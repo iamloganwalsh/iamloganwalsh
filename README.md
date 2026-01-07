@@ -10,11 +10,11 @@ Outside of software development, I like to spend my free time playing video game
 
 # Achievements
 
-- 📜First in Course Award (x2), awarded for achieving the highest overall mark in Compsci 101 - Semester One, 2023 and Compsci 130 - Semester Two, 2023.
-- 📜Certificate of Oustanding Achievement (x4), 2 issued by Robyn Young (2023) and 2 issued by Maria Rodrigues (2024).
-- 📜Certificate of Merit (x2), issued by Sithra Sukumaar (2023 & 2024).
+- First in Course Award (x2), awarded for achieving the highest overall mark in Compsci 101 - Semester One, 2023 and Compsci 130 - Semester Two, 2023.
+- Certificate of Oustanding Achievement (x4), 2 issued by Robyn Young (2023) and 2 issued by Maria Rodrigues (2024).
+- Certificate of Merit (x2), issued by Sithra Sukumaar (2023 & 2024).
   
-# 🛠️ Languages and Tools
+# Languages and Tools
 
 <p align="left">
   <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
