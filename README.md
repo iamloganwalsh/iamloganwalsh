@@ -2,11 +2,11 @@
 
 # About Me
 
-I am Logan Walsh, an aspiring Software Engineer studying a Bachelor of Science, majoring in Computer Science at the University of Auckland (UoA).
+I am Logan Walsh, an aspiring Software Engineer. I recently completed my Bachelor of Science, majoring in Computer Science at the University of Auckland (UoA) and will be graduating in May 2026.
 
-I am very enthusiastic to learn from more experienced developers and tutors. I am currently learning JavaScript and MongoDB through my E-Commerce store project, where I hope to include other features such as inventory management. I am doing this as I want to create something more than just a store, which allows for more control from the companies' perspective.
+I am very enthusiastic to learn from more experienced developers and tutors. I am currently exploring lower level systems and optimisations, with a range of interests from SWE to CyberSecurity.
 
-Outside of software development, I like to spend my free time playing video games and working on my fitness, both through sports and working out in the gym. I also love to travel, and hope that I will have plenty of opportunities to do so in the future, either for work or pleasure.
+Outside of software development, I enjoy spending time playing video games and exercising, particularly in the gym or out in nature. I also enjoy travel, and hope to have plenty of opportunities to do so in the future, whether for work or pleasure.
 
 # Achievements
 
@@ -14,9 +14,23 @@ Outside of software development, I like to spend my free time playing video game
 - Certificate of Oustanding Achievement (x4), 2 issued by Robyn Young (2023) and 2 issued by Maria Rodrigues (2024).
 - Certificate of Merit (x2), issued by Sithra Sukumaar (2023 & 2024).
   
-# Languages and Tools
-
-<p align="left">
-  <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/><img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+# Primary Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/>
 </p>
 
+# Frontend Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
+
+# Currently Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</p>
